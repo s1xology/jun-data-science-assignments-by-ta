@@ -13,13 +13,14 @@ These assignments cover a wide range of topics in programming for data science a
 ```
 jun-data-science-assignments-by-ta/
 ...
-├── assignment folder/
-│   ├── assignment questions only notebook.ipynb
-│   ├── assignment solutions notebook.ipynb
-│   └── assignment dataset.csv
+├── <assignment-folder>/
+│   ├── questions only notebook.ipynb
+│   ├── solutions notebook.ipynb
+│   └── dataset.csv
 ...
 ├── LICENSE
 ├── README.md
+├── requirements.txt
 ```
 
 Each assignment part is organized into its own folder, containing:
